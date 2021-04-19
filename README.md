@@ -66,5 +66,3 @@
 >![캡처](https://user-images.githubusercontent.com/79889548/115240109-6515fb00-a15a-11eb-820d-e682270e7469.PNG)   
 >코드에선 오류가 안뜨는데 앱을 실행하면 버튼만 눌리고 주소 입력이 안 됩니다.   
 >
->>[구글 지도 오류](https://user-images.githubusercontent.com/57963888/115241555-ede16680-a15b-11eb-9443-1b976d6204d3.mp4)   
->>
